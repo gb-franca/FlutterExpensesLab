@@ -24,9 +24,9 @@ O aplicativo permite:
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5b558fde-ded6-4cef-914a-f71facdb817f" width="200" alt="Tela de lista de despesas."/>
+  <img src="https://github.com/user-attachments/assets/f83ee9d2-8958-4ace-96ae-f72acd73bec3" width="200" alt="Tela de lista de despesas."/>
   &nbsp; &nbsp; &nbsp; 
-  <img src="https://github.com/user-attachments/assets/9bf4ff11-2662-42b6-b080-19f6802ddf7d" width="200" alt="Tela de formulário de cadastro de despesas."/>
+  <img src="https://github.com/user-attachments/assets/71fc4b1d-96e7-4bec-bc6c-7e91b250c2c1" width="200" alt="Tela de formulário de cadastro de despesas."/>
 </div>
 
 ---
